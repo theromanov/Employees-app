@@ -3,9 +3,9 @@ import "./app-info.css";
 function AppInfo() {
   return (
     <div className="app-info">
-      <h1>Облік співробітників в компанії NextServe</h1>
-      <h2>Загальна кількість співробітників: </h2>
-      <h2>Премію отримають: </h2>
+      <h1>Employee registration at NextServe</h1>
+      <h2>Total number of employees: </h2>
+      <h2>The award will be received by: </h2>
     </div>
   );
 }
